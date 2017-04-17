@@ -1,0 +1,34 @@
+#movies img,
+#movie img {
+    width: 100%
+}
+
+@media(min-width:960) {
+    #movies .col-md-3 .well {
+        height: 390px;
+    }
+    #movies .col-md-3 img {
+        height: 240px;
+    }
+}
+
+body {
+    background-color: darkred;
+    font-family: Roboto;
+    font: Roboto;
+}
+
+p {
+    font-family: Roboto;
+    font: Roboto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Roboto;
+    font: Roboto;
+}
